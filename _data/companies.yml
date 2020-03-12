@@ -1037,8 +1037,8 @@
 - name: Mailchimp
   wfh: Strongly Encouraged
   travel: Restricted
-  visitors: Restricted
-  events: Restricted
+  visitors: Non-essential restricted
+  events: Non-essential restricted
   last_update: 2020-03-12
 
 - name: Mattermost
